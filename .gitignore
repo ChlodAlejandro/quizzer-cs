@@ -1,0 +1,9 @@
+.vs/
+*/bin/
+*/obj/
+
+# Testpacks
+*.qp
+
+# Completed tests
+*/results/
